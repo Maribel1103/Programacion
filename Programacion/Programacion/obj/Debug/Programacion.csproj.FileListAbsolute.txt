@@ -1,0 +1,12 @@
+E:\Escritorio\Maribel1103\Programacion\Programacion\bin\Debug\Programacion.exe.config
+E:\Escritorio\Maribel1103\Programacion\Programacion\bin\Debug\Programacion.exe
+E:\Escritorio\Maribel1103\Programacion\Programacion\bin\Debug\Programacion.pdb
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.exe
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.pdb
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.FormularioDeRequisitos.resources
+E:\Escritorio\Maribel1103\Programacion\Programacion\obj\Debug\Programacion.InicioSesion.resources
